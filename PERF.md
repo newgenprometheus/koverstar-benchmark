@@ -1,7 +1,7 @@
 # PERF.md — couche objective (PageSpeed Insights)
 
 > **Auto-généré par `run-benchmark.mjs`. Ne pas éditer à la main.**
-> Dernière passe : **2026-08-03** · stratégie : **mobile** · clé API : **non (quota partagé)**
+> Dernière passe : **2026-08-10** · stratégie : **mobile** · clé API : **non (quota partagé)**
 
 ## ⚠️ Aucune donnée objective collectée
 
